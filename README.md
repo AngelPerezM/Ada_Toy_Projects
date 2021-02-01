@@ -1,3 +1,3 @@
-#Ada projects
+# Ada projects
 
-Toy porgrams to learn Ada.
+My toy porgrams to learn Ada.
